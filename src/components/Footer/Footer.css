@@ -1,0 +1,7 @@
+.pie {
+    display:flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: rgb(144, 166, 184);
+    height: 4.5em;
+}
