@@ -1,0 +1,36 @@
+.header {
+    min-height: 11vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: rgb(59, 128, 184);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+    font-weight: 2em;
+    font-size: 1.5em;
+}
+
+.active {
+    background-color: rgb(0, 46, 83);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.header a, .header span {
+    all: unset;
+    color: white;
+    padding: 1em;
+    transition: all 0.5s;
+    cursor: pointer;
+}
+
+.header a:hover, .header span:hover {
+    color: rgb(12, 50, 107);
+    cursor: pointer;
+    background-color: rgb(185, 206, 223);
+}
+
+.menu {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
