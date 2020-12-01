@@ -32,7 +32,7 @@ Parte de Backend:
 
 ![Screenshot](tablas.png)
  
- https://lubersol.github.io/Clinica_Dental_React/
+**4 - Enlace de la API a Heroku:**
 
 https://clinica-dental-react-2.herokuapp.com/
 
