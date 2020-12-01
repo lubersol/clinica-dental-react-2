@@ -6,15 +6,15 @@ import { BrowserRouter, Switch, Route } from 'react-router-dom';
 
 //Importación de componentes
 
-import Header from './components/header/Header';
-import Footer from './components/footer/Footer';
+import Header from './components/Header/Header';
+import Footer from './components/Footer/Footer';
 
 //Importación de containers
 
-import Home from './containers/home/Home';
-import Citas from './containers/citas/Citas';
-import AdministracionCitas from './containers/administracionCitas/AdministracionCitas';
-import AdministracionCliente from './containers/administracionCliente/AdministracionCliente';
+import Home from './containers/Home/Home';
+import Citas from './containers/Citas/Citas';
+import AdministracionCitas from './containers/AdministracionCitas/AdministracionCitas';
+import AdministracionCliente from './containers/AdministracionCliente/AdministracionCliente';
 
 function App() {
   let initialUsuario = null;
