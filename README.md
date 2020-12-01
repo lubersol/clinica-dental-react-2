@@ -34,8 +34,7 @@ Parte de Backend:
  
  https://lubersol.github.io/Clinica_Dental_React/
 
-https://clinica-dental-react.herokuapp.com/
+https://clinica-dental-react-2.herokuapp.com/
 
-https://git.heroku.com/clinica-dental-react.git
 
  
