@@ -1,0 +1,28 @@
+.titulo {
+    color: rgb(59, 128, 184);
+    font-size: 3em;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    padding-top: 0.65em;
+    margin: 0;
+}
+
+.muela {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0.80em;
+}
+
+.registro-form {
+    display: flex;
+    flex-direction: column;
+    padding: 2em;
+}
+
+.login-form {
+    display: flex;
+    flex-direction: column;
+    padding: 2em;
+}
